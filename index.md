@@ -15,7 +15,7 @@ Syntax highlighted code block
 
 
 
-- The TA's
+- The professors
 - no Tests
 - not super difficult
 - friends in my class
